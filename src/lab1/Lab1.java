@@ -5,5 +5,7 @@ public class Lab1 {
         Milk m1 = new Milk("Свежие новости", 2.8, true);
         WriterInfo write = new WriterInfo();
         write.writeInfo(m1);
+        write.writeInfo(m1);
+        write.writeInfo(m1);
     }
 }
